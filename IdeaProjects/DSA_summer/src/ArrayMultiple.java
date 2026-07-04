@@ -4,7 +4,7 @@ public class ArrayMultiple {
         int ans = 1;
         int n = arr.length;
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i <= n; i++) {
             int value = arr[i];
             ans = ans * value;
         }
