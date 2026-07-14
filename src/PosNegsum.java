@@ -16,7 +16,7 @@ public class PosNegsum {
 
 
     static void main() {
-        int arr[] = {2,-1,5,-15,23};
+        int arr[] = {2,-1,5,-25,23};
         int ans[] = getPosNegSum(arr);
         System.out.println("Possum :"+ans[0]);
         System.out.println("NegSum :"+ans[1]);
