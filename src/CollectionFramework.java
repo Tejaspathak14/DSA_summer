@@ -109,7 +109,7 @@ public class CollectionFramework {
             for(Object obj:arr ){
                 System.out.println(obj);
 
-                System.out.println(list2.contains(100));
+                System.out.println(list2.contains(10));
             }
         }
     }
